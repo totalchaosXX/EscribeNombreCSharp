@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\CursoC#\EscribeNombre\bin\Debug\net6.0\EscribeNombre.exe
+C:\Users\Asus\Desktop\CursoC#\EscribeNombre\bin\Debug\net6.0\EscribeNombre.deps.json
+C:\Users\Asus\Desktop\CursoC#\EscribeNombre\bin\Debug\net6.0\EscribeNombre.runtimeconfig.json
+C:\Users\Asus\Desktop\CursoC#\EscribeNombre\bin\Debug\net6.0\EscribeNombre.dll
+C:\Users\Asus\Desktop\CursoC#\EscribeNombre\bin\Debug\net6.0\EscribeNombre.pdb
+C:\Users\Asus\Desktop\CursoC#\EscribeNombre\obj\Debug\net6.0\EscribeNombre.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\CursoC#\EscribeNombre\obj\Debug\net6.0\EscribeNombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CursoC#\EscribeNombre\obj\Debug\net6.0\EscribeNombre.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CursoC#\EscribeNombre\obj\Debug\net6.0\EscribeNombre.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CursoC#\EscribeNombre\obj\Debug\net6.0\EscribeNombre.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CursoC#\EscribeNombre\obj\Debug\net6.0\EscribeNombre.dll
+C:\Users\Asus\Desktop\CursoC#\EscribeNombre\obj\Debug\net6.0\refint\EscribeNombre.dll
+C:\Users\Asus\Desktop\CursoC#\EscribeNombre\obj\Debug\net6.0\EscribeNombre.pdb
+C:\Users\Asus\Desktop\CursoC#\EscribeNombre\obj\Debug\net6.0\EscribeNombre.genruntimeconfig.cache
+C:\Users\Asus\Desktop\CursoC#\EscribeNombre\obj\Debug\net6.0\ref\EscribeNombre.dll
